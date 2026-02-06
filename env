@@ -1,0 +1,6 @@
+# OpenAI API Configuration
+VITE_OPENAI_API_KEY=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
+
+# App Configuration
+VITE_APP_NAME=Northern School App
+VITE_SCHOOL_NAME=Northern Secondary School
